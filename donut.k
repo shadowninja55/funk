@@ -9,7 +9,7 @@ D:{(sP;sT;sA;sB;cP;cT;cA;cB):,/`sin`cos@\:x
 L:{(sP;sT;sA;sB;cP;cT;cA;cB):,/`sin`cos@\:x
    -/(cP*cT*sB;cA*cT*sP;sA*sT;-cB*(cA*sT)-cT*sA*sP)}
 `1:0x1b5b324a
-{d:(c*!2#360),8 3*`t[]%6e6
- g:=100/_0.5+f+2#s:D d
- l:".,-~:;=!*#$@"0|_8*L[d]g@'4:'.s[2]g
- `0:0x1b5b48,{2}#'v#l@100/!v;~x}/2
+{1}{d:(c*!2#360),8 3*`t[]%6e6
+    g:=100/_0.5+f+2#s:D d
+    l:".,-~:;=!*#$@"0|_8*L[d]g@'4:'.s[2]g
+    `0:0x1b5b48,{2}#'v#l@100/!v}/0
